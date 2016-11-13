@@ -46,12 +46,13 @@
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-6.png">
 </p> 
+![](https://github.com/UkritFB/LAB-10/blob/master/10.6.PNG?raw=true)
 ###การวาดสี่เหลี่ยมพร้อมกันครั้งละหลายๆ รูป
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-7.png">
 </p> 
 
-
+![](https://github.com/UkritFB/LAB-10/blob/master/10.7.PNG?raw=true)
 ## การวาดวงกลมและวงรี
 วงรีต่างจากวงกลมตรงที่เส้นผ่านศูนย์กลางในแกนตั้งและแกนนอนจะไม่เท่ากัน ในภาษาโปรแกรมส่วนใหญ่จะมีเฉพาะฟังก์ชันวาดวงรี ถ้าต้องการวาดวงกลม ให้กำหนดเส้นผ่านศูนย์กลางในแกนตั้งและแกนนอนให้เท่ากัน
    <p align="center">
