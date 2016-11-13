@@ -14,33 +14,33 @@
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-1.png">
 </p>
-
+![](https://github.com/UkritFB/LAB-10/blob/master/10.1.PNG?raw=true)
 
 ## การวาดเส้นตรงด้วย pen style และ brush
 * [PenType Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.pentype(v=vs.110).aspx)
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-2.png">
 </p>
-
+![](https://github.com/UkritFB/LAB-10/blob/master/10.2.PNG?raw=true)
 ## การกำหนดจุดปลายของเส้นตรงด้วย style แบบต่างๆ
 
 * [LineCap Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.linecap(v=vs.110).aspx)
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-3.png">
 </p>
-
+![](https://github.com/UkritFB/LAB-10/blob/master/10.3.PNG?raw=true)
 
 ##การวาดเส้นโค้ง
 การวาดเส้นโค้ง ทำได้โดยการกำหนดจุดไว้ใน array ของ point แล้วส่งให้กับฟังก์ชัน DrawCurve ดังตัวอย่างต่อไปนี้
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-4.png">
 </p>
-
+![](https://github.com/UkritFB/LAB-10/blob/master/10.4.PNG?raw=true)
 ## การวาดเส้นโค้งด้วย Graphics path
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
 </p> 
-
+![](https://github.com/UkritFB/LAB-10/blob/master/10.5.PNG?raw=true)
 ## การวาดรูปทรงสี่เหลี่ยม
 ### การวาดสี่เหลี่ยมครั้งละรูปเดียว
   <p align="center">
